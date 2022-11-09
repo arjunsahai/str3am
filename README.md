@@ -18,3 +18,6 @@ You'll need to create a Livepeer Studio account. You can generate an API Key fro
 Create a .env folder in the root and set `NEXT_PUBLIC_STUDIO_API_KEY`.
 
 You'll also need to create a lock using the Unlock Dashboard. After creating the lock update the config in `./components/WatchStream.tsx`.
+
+## Awards
+This project won $2000 Livepeer best use prize for EthSF hackathon. See [this link](https://ethglobal.com/showcase/str3am-tef4d) for details
